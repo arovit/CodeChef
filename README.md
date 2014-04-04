@@ -1,4 +1,4 @@
 CodeChef
 ========
 
-CodeChef-Programming 
+Solution to CodeChef-Programming problems
